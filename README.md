@@ -9,6 +9,6 @@ The goal of this project is to tune different recurrent neural network models to
 
 ## Datasets
 The following datasets are used in this project:
-- **[Dataset for Baseline Subject](https://ucla.app.box.com/s/3xc4nwpfjfpo6ydjs94t0v2kuq37d5eg)**: [Add a brief description of the dataset, e.g., "This dataset contains EMG signals collected from a baseline subject."]
+- **[Dataset for Baseline Subject](https://ucla.app.box.com/s/3xc4nwpfjfpo6ydjs94t0v2kuq37d5eg)**: [This dataset contains EMG signals collected from a baseline subject.]
 
 ---
