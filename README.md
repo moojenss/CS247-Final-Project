@@ -3,7 +3,7 @@
 ## Project Introduction
 This project builds on the **emg2qwerty** project by Joe Lin, which can be found here: [emg2qwerty GitHub Repository](https://github.com/joe-lin-tech/emg2qwerty). 
 
-The goal of this project is to [briefly describe your project's goal or purpose in 1-2 sentences].
+The goal of this project is to tune different recurrent neural network models to predict typed keystrokes given a sequence of sEMG signals.
 
 ---
 
